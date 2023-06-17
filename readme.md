@@ -1,7 +1,11 @@
 
 
+# How to run code?
+Install python(3.8) package requirements with 
 
+```pip install -r requirements.txt```
 
+then, you are ready to run main_notebook.ipynb
 
 # IMAGE ENHANCEMENT USING LCDE MODEL
 Hello!
