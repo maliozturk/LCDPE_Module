@@ -1,11 +1,15 @@
 
 
 # How to run code?
-Install python(3.8) package requirements with 
+1. Install python(3.8) package requirements with 
 
 ```pip install -r requirements.txt```
 
-then, you are ready to run main_notebook.ipynb
+2. Download the dataset from <a href="https://drive.google.com/drive/folders/10Reaq-N0DiZiFpSrZ8j5g3g0EJes4JiS"> here </a> and unzip the dataset to the cloned project folder.
+
+
+Once you complete those steps, you are ready to run main_notebook.ipynb . Feel free to our pretrained models or you can
+train your models once again using the models we provided similar to the original paper's models.
 
 # IMAGE ENHANCEMENT USING LCDE MODEL
 Hello!
